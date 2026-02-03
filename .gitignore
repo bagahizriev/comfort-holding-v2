@@ -6,3 +6,4 @@ __pycache__/
 static/css/output.css
 applications.db
 deploy.sh
+.prettierrc
